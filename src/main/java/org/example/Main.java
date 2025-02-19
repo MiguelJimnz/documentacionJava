@@ -4,7 +4,9 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Rama 1 eliminada");
+        System.out.println("Eliminando Ramas");
+
+
 
     }
 }
